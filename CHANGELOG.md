@@ -1,5 +1,23 @@
 # Changelog
 
+## [4.2.0-main](https://github.com/tianshaotyler/msstream-shaka-player/compare/v4.1.1-main...v4.2.0-main) (2022-06-29)
+
+
+### Features
+
+* Add support for Modern EME and legacy Apple Media Keys for FairPlay ([#4309](https://github.com/tianshaotyler/msstream-shaka-player/issues/4309)) ([5441f93](https://github.com/tianshaotyler/msstream-shaka-player/commit/5441f932fd3da20f26da162cc0d49d0470689b41))
+
+
+### Bug Fixes
+
+* Fix EOS set-top box being identified as Apple. ([#4310](https://github.com/tianshaotyler/msstream-shaka-player/issues/4310)) ([7c2c4be](https://github.com/tianshaotyler/msstream-shaka-player/commit/7c2c4be2ae946c4cf270717f852b0d95b498266e))
+* Fix getVideoPlaybackQuality in WebOS 3 ([#4316](https://github.com/tianshaotyler/msstream-shaka-player/issues/4316)) ([5561111](https://github.com/tianshaotyler/msstream-shaka-player/commit/556111143dfccbc7348fc15792df75bc35fea465))
+* Fix MediaCapabilities polyfill on Playstation 4 ([#4320](https://github.com/tianshaotyler/msstream-shaka-player/issues/4320)) ([0335b2a](https://github.com/tianshaotyler/msstream-shaka-player/commit/0335b2af2efea6ceda83e536e12094e4cc942a25))
+* pipeline ([aeefa71](https://github.com/tianshaotyler/msstream-shaka-player/commit/aeefa71405563aaacbcfd4ad51a64d17edbaff37))
+* pipeline ([aeefa71](https://github.com/tianshaotyler/msstream-shaka-player/commit/aeefa71405563aaacbcfd4ad51a64d17edbaff37))
+* remove build python ([71c087a](https://github.com/tianshaotyler/msstream-shaka-player/commit/71c087ad2edd6c6e373e28398687d49f55523ac1))
+* remove build python ([71c087a](https://github.com/tianshaotyler/msstream-shaka-player/commit/71c087ad2edd6c6e373e28398687d49f55523ac1))
+
 ## [4.1.0](https://github.com/shaka-project/shaka-player/compare/v4.0.0...v4.1.0) (2022-06-02)
 
 
