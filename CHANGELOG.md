@@ -1,5 +1,17 @@
 # Changelog
 
+## [3.3.8](https://github.com/tianshaotyler/msstream-shaka-player/compare/v3.3.7...v3.3.8) (2022-06-30)
+
+
+### Bug Fixes
+
+* name ([4e246ed](https://github.com/tianshaotyler/msstream-shaka-player/commit/4e246ed88e7dd6db28ad995261767f8a6f6c96fc))
+* name ([4e246ed](https://github.com/tianshaotyler/msstream-shaka-player/commit/4e246ed88e7dd6db28ad995261767f8a6f6c96fc))
+* pipeline ([420bfb1](https://github.com/tianshaotyler/msstream-shaka-player/commit/420bfb108a78e45a787c85e28b9154c88c860bdd))
+* pipeline ([420bfb1](https://github.com/tianshaotyler/msstream-shaka-player/commit/420bfb108a78e45a787c85e28b9154c88c860bdd))
+* publish ([ae67e89](https://github.com/tianshaotyler/msstream-shaka-player/commit/ae67e89a00b564efdbce4ed1f5f0ca6f1804e12c))
+* publish ([ae67e89](https://github.com/tianshaotyler/msstream-shaka-player/commit/ae67e89a00b564efdbce4ed1f5f0ca6f1804e12c))
+
 ## [3.3.7](https://github.com/shaka-project/shaka-player/compare/v3.3.6...v3.3.7) (2022-06-14)
 
 
